@@ -1,2 +1,2 @@
 # Job-scrap
-Scrap and filter jons from varioius job listing websites.
+Scrap and filter jobs from varioius job listing websites.
